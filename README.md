@@ -1,5 +1,6 @@
 # nalyze-your-first-packet-with-Wireshark
 https://www.cloudskillsboost.google/public_profiles/7cc5d358-9b40-4012-8b49-47289e4e3c80
+
 Activity overview
 As a security analyst, you’ll need to analyze network traffic in order to learn what type of traffic is being sent to and from systems on the networks you’ll be working with.
 
